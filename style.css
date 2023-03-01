@@ -1,0 +1,41 @@
+body {
+    background-image: linear-gradient(to right, rgb(255, 233, 87),rgba(255, 233, 87, 0.5),rgb(255, 233, 87));
+    text-align: center;
+    font-family: 'Garamond';
+    font-size:1.5rem;
+}
+
+.main-heading {
+    font-size: 2.5em;
+    color: rgb(208, 147, 72);
+    font-family: 'Georgia', sans-serif;
+    
+    text-transform: uppercase;
+
+}
+
+img {
+    border-radius: 4px;
+    width:400px;
+    height: auto; 
+
+}
+    
+
+#content {
+    padding: 5px;
+    font-size: 2rem;
+}
+
+.body-text, ul, ol {
+    text-align:left;
+}
+
+.body-text {
+    font-size: 1.5rem;
+}
+
+hr{
+    border: 1px solid rgb(192, 140, 8);
+    width: 75%;
+}
